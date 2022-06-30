@@ -1,0 +1,19 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial de GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZyamHunter/Tutorial.git"
+  },
+  "author": "Yam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZyamHunter/Tutorial/issues"
+  },
+  "homepage": "https://github.com/ZyamHunter/Tutorial#readme"
+}
